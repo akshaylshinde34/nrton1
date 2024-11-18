@@ -73,7 +73,7 @@ body {
 
 /* Banner styles */
 .banner {
-    background-image: img src"= "backgroundhead.jpg;
+    background-image: url(backgroundhead.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
